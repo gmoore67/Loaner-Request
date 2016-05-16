@@ -22,14 +22,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-05-14 13:32:41</sys_created_on>
         <sys_id>9e16e443849f52007f44fc1560e72b64</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-05-16 15:28:03</sys_updated_on>
+        <sys_updated_on>2016-05-16 17:51:21</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.1.1</version>
+        <version>3.0.0</version>
     </sys_app>
 </record_update>
